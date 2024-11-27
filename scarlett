@@ -1,0 +1,24 @@
+{
+  "name": "Scarlet Source",
+  "subtitle": "Your gateway to Scarlet apps",
+  "description": "Discover and download apps seamlessly with Scarlet.",
+  "iconURL": "https://example.com/scarlet_icon.png",
+  "headerURL": "https://example.com/scarlet_header.png",
+  "website": "https://scarlet.app",
+  "tintColor": "#F54F32",
+  "apps": [
+    {
+      "bundleIdentifier": "com.scarlet.alpha",
+      "name": "Scarlet Alpha",
+      "developerName": "Scarlet Team",
+      "version": "1.0.0",
+      "beta": false,
+      "localizedDescription": "Experience the Scarlet app ecosystem.",
+      "iconURL": "https://example.com/scarlet_alpha_icon.png",
+      "tintColor": "#F54F32",
+      "size": 20971520,
+      "downloadURL": "https://github.com/Paichu22/scarlet/blob/main/ScarletAlpha%20(1).ipa?raw=true",
+      "screenshotURLs": []
+    }
+  ]
+}
